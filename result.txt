@@ -1,0 +1,483 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 09:24 ?        00:00:01 /sbin/init splash
+root           2       0  0 09:24 ?        00:00:00 [kthreadd]
+root           3       2  0 09:24 ?        00:00:00 [rcu_gp]
+root           4       2  0 09:24 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 09:24 ?        00:00:00 [slub_flushwq]
+root           6       2  0 09:24 ?        00:00:00 [netns]
+root           8       2  0 09:24 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 09:24 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 09:24 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 09:24 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 09:24 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 09:24 ?        00:00:00 [rcu_sched]
+root          15       2  0 09:24 ?        00:00:00 [migration/0]
+root          16       2  0 09:24 ?        00:00:00 [idle_inject/0]
+root          18       2  0 09:24 ?        00:00:00 [cpuhp/0]
+root          19       2  0 09:24 ?        00:00:00 [cpuhp/1]
+root          20       2  0 09:24 ?        00:00:00 [idle_inject/1]
+root          21       2  0 09:24 ?        00:00:00 [migration/1]
+root          22       2  0 09:24 ?        00:00:00 [ksoftirqd/1]
+root          24       2  0 09:24 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          25       2  0 09:24 ?        00:00:00 [cpuhp/2]
+root          26       2  0 09:24 ?        00:00:00 [idle_inject/2]
+root          27       2  0 09:24 ?        00:00:00 [migration/2]
+root          28       2  0 09:24 ?        00:00:00 [ksoftirqd/2]
+root          30       2  0 09:24 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          31       2  0 09:24 ?        00:00:00 [cpuhp/3]
+root          32       2  0 09:24 ?        00:00:00 [idle_inject/3]
+root          33       2  0 09:24 ?        00:00:00 [migration/3]
+root          34       2  0 09:24 ?        00:00:00 [ksoftirqd/3]
+root          36       2  0 09:24 ?        00:00:00 [kworker/3:0H-kblockd]
+root          37       2  0 09:24 ?        00:00:00 [cpuhp/4]
+root          38       2  0 09:24 ?        00:00:00 [idle_inject/4]
+root          39       2  0 09:24 ?        00:00:00 [migration/4]
+root          40       2  0 09:24 ?        00:00:00 [ksoftirqd/4]
+root          42       2  0 09:24 ?        00:00:00 [kworker/4:0H-events_highpri]
+root          43       2  0 09:24 ?        00:00:00 [cpuhp/5]
+root          44       2  0 09:24 ?        00:00:00 [idle_inject/5]
+root          45       2  0 09:24 ?        00:00:00 [migration/5]
+root          46       2  0 09:24 ?        00:00:00 [ksoftirqd/5]
+root          48       2  0 09:24 ?        00:00:00 [kworker/5:0H-events_highpri]
+root          49       2  0 09:24 ?        00:00:00 [cpuhp/6]
+root          50       2  0 09:24 ?        00:00:00 [idle_inject/6]
+root          51       2  0 09:24 ?        00:00:00 [migration/6]
+root          52       2  0 09:24 ?        00:00:00 [ksoftirqd/6]
+root          54       2  0 09:24 ?        00:00:00 [kworker/6:0H-events_highpri]
+root          55       2  0 09:24 ?        00:00:00 [cpuhp/7]
+root          56       2  0 09:24 ?        00:00:00 [idle_inject/7]
+root          57       2  0 09:24 ?        00:00:00 [migration/7]
+root          58       2  0 09:24 ?        00:00:00 [ksoftirqd/7]
+root          60       2  0 09:24 ?        00:00:00 [kworker/7:0H-kblockd]
+root          61       2  0 09:24 ?        00:00:00 [cpuhp/8]
+root          62       2  0 09:24 ?        00:00:00 [idle_inject/8]
+root          63       2  0 09:24 ?        00:00:00 [migration/8]
+root          64       2  0 09:24 ?        00:00:00 [ksoftirqd/8]
+root          66       2  0 09:24 ?        00:00:00 [kworker/8:0H-events_highpri]
+root          67       2  0 09:24 ?        00:00:00 [cpuhp/9]
+root          68       2  0 09:24 ?        00:00:00 [idle_inject/9]
+root          69       2  0 09:24 ?        00:00:00 [migration/9]
+root          70       2  0 09:24 ?        00:00:00 [ksoftirqd/9]
+root          72       2  0 09:24 ?        00:00:00 [kworker/9:0H-events_highpri]
+root          73       2  0 09:24 ?        00:00:00 [cpuhp/10]
+root          74       2  0 09:24 ?        00:00:00 [idle_inject/10]
+root          75       2  0 09:24 ?        00:00:00 [migration/10]
+root          76       2  0 09:24 ?        00:00:00 [ksoftirqd/10]
+root          78       2  0 09:24 ?        00:00:00 [kworker/10:0H-events_highpri]
+root          79       2  0 09:24 ?        00:00:00 [cpuhp/11]
+root          80       2  0 09:24 ?        00:00:00 [idle_inject/11]
+root          81       2  0 09:24 ?        00:00:00 [migration/11]
+root          82       2  0 09:24 ?        00:00:00 [ksoftirqd/11]
+root          83       2  0 09:24 ?        00:00:00 [kworker/11:0-events]
+root          84       2  0 09:24 ?        00:00:00 [kworker/11:0H-events_highpri]
+root          85       2  0 09:24 ?        00:00:00 [cpuhp/12]
+root          86       2  0 09:24 ?        00:00:00 [idle_inject/12]
+root          87       2  0 09:24 ?        00:00:00 [migration/12]
+root          88       2  0 09:24 ?        00:00:00 [ksoftirqd/12]
+root          90       2  0 09:24 ?        00:00:00 [kworker/12:0H-events_highpri]
+root          91       2  0 09:24 ?        00:00:00 [cpuhp/13]
+root          92       2  0 09:24 ?        00:00:00 [idle_inject/13]
+root          93       2  0 09:24 ?        00:00:00 [migration/13]
+root          94       2  0 09:24 ?        00:00:00 [ksoftirqd/13]
+root          96       2  0 09:24 ?        00:00:00 [kworker/13:0H-events_highpri]
+root          97       2  0 09:24 ?        00:00:00 [cpuhp/14]
+root          98       2  0 09:24 ?        00:00:00 [idle_inject/14]
+root          99       2  0 09:24 ?        00:00:00 [migration/14]
+root         100       2  0 09:24 ?        00:00:00 [ksoftirqd/14]
+root         102       2  0 09:24 ?        00:00:00 [kworker/14:0H-events_highpri]
+root         103       2  0 09:24 ?        00:00:00 [cpuhp/15]
+root         104       2  0 09:24 ?        00:00:00 [idle_inject/15]
+root         105       2  0 09:24 ?        00:00:00 [migration/15]
+root         106       2  0 09:24 ?        00:00:00 [ksoftirqd/15]
+root         108       2  0 09:24 ?        00:00:00 [kworker/15:0H-events_highpri]
+root         109       2  0 09:24 ?        00:00:00 [cpuhp/16]
+root         110       2  0 09:24 ?        00:00:00 [idle_inject/16]
+root         111       2  0 09:24 ?        00:00:00 [migration/16]
+root         112       2  0 09:24 ?        00:00:00 [ksoftirqd/16]
+root         114       2  0 09:24 ?        00:00:00 [kworker/16:0H-events_highpri]
+root         115       2  0 09:24 ?        00:00:00 [cpuhp/17]
+root         116       2  0 09:24 ?        00:00:00 [idle_inject/17]
+root         117       2  0 09:24 ?        00:00:00 [migration/17]
+root         118       2  0 09:24 ?        00:00:00 [ksoftirqd/17]
+root         120       2  0 09:24 ?        00:00:00 [kworker/17:0H-events_highpri]
+root         121       2  0 09:24 ?        00:00:00 [cpuhp/18]
+root         122       2  0 09:24 ?        00:00:00 [idle_inject/18]
+root         123       2  0 09:24 ?        00:00:00 [migration/18]
+root         124       2  0 09:24 ?        00:00:00 [ksoftirqd/18]
+root         126       2  0 09:24 ?        00:00:00 [kworker/18:0H-events_highpri]
+root         127       2  0 09:24 ?        00:00:00 [cpuhp/19]
+root         128       2  0 09:24 ?        00:00:00 [idle_inject/19]
+root         129       2  0 09:24 ?        00:00:00 [migration/19]
+root         130       2  0 09:24 ?        00:00:00 [ksoftirqd/19]
+root         132       2  0 09:24 ?        00:00:00 [kworker/19:0H-events_highpri]
+root         133       2  0 09:24 ?        00:00:00 [cpuhp/20]
+root         134       2  0 09:24 ?        00:00:00 [idle_inject/20]
+root         135       2  0 09:24 ?        00:00:00 [migration/20]
+root         136       2  0 09:24 ?        00:00:00 [ksoftirqd/20]
+root         138       2  0 09:24 ?        00:00:00 [kworker/20:0H-events_highpri]
+root         139       2  0 09:24 ?        00:00:00 [cpuhp/21]
+root         140       2  0 09:24 ?        00:00:00 [idle_inject/21]
+root         141       2  0 09:24 ?        00:00:00 [migration/21]
+root         142       2  0 09:24 ?        00:00:00 [ksoftirqd/21]
+root         144       2  0 09:24 ?        00:00:00 [kworker/21:0H-events_highpri]
+root         145       2  0 09:24 ?        00:00:00 [cpuhp/22]
+root         146       2  0 09:24 ?        00:00:00 [idle_inject/22]
+root         147       2  0 09:24 ?        00:00:00 [migration/22]
+root         148       2  0 09:24 ?        00:00:00 [ksoftirqd/22]
+root         150       2  0 09:24 ?        00:00:00 [kworker/22:0H-events_highpri]
+root         151       2  0 09:24 ?        00:00:00 [cpuhp/23]
+root         152       2  0 09:24 ?        00:00:00 [idle_inject/23]
+root         153       2  0 09:24 ?        00:00:00 [migration/23]
+root         154       2  0 09:24 ?        00:00:00 [ksoftirqd/23]
+root         156       2  0 09:24 ?        00:00:00 [kworker/23:0H-events_highpri]
+root         157       2  0 09:24 ?        00:00:00 [cpuhp/24]
+root         158       2  0 09:24 ?        00:00:00 [idle_inject/24]
+root         159       2  0 09:24 ?        00:00:00 [migration/24]
+root         160       2  0 09:24 ?        00:00:00 [ksoftirqd/24]
+root         162       2  0 09:24 ?        00:00:00 [kworker/24:0H-events_highpri]
+root         163       2  0 09:24 ?        00:00:00 [cpuhp/25]
+root         164       2  0 09:24 ?        00:00:00 [idle_inject/25]
+root         165       2  0 09:24 ?        00:00:00 [migration/25]
+root         166       2  0 09:24 ?        00:00:00 [ksoftirqd/25]
+root         168       2  0 09:24 ?        00:00:00 [kworker/25:0H-events_highpri]
+root         169       2  0 09:24 ?        00:00:00 [cpuhp/26]
+root         170       2  0 09:24 ?        00:00:00 [idle_inject/26]
+root         171       2  0 09:24 ?        00:00:00 [migration/26]
+root         172       2  0 09:24 ?        00:00:00 [ksoftirqd/26]
+root         174       2  0 09:24 ?        00:00:00 [kworker/26:0H-events_highpri]
+root         175       2  0 09:24 ?        00:00:00 [cpuhp/27]
+root         176       2  0 09:24 ?        00:00:00 [idle_inject/27]
+root         177       2  0 09:24 ?        00:00:00 [migration/27]
+root         178       2  0 09:24 ?        00:00:00 [ksoftirqd/27]
+root         180       2  0 09:24 ?        00:00:00 [kworker/27:0H-events_highpri]
+root         181       2  0 09:24 ?        00:00:00 [cpuhp/28]
+root         182       2  0 09:24 ?        00:00:00 [idle_inject/28]
+root         183       2  0 09:24 ?        00:00:00 [migration/28]
+root         184       2  0 09:24 ?        00:00:00 [ksoftirqd/28]
+root         186       2  0 09:24 ?        00:00:00 [kworker/28:0H-events_highpri]
+root         187       2  0 09:24 ?        00:00:00 [cpuhp/29]
+root         188       2  0 09:24 ?        00:00:00 [idle_inject/29]
+root         189       2  0 09:24 ?        00:00:00 [migration/29]
+root         190       2  0 09:24 ?        00:00:00 [ksoftirqd/29]
+root         192       2  0 09:24 ?        00:00:00 [kworker/29:0H-events_highpri]
+root         193       2  0 09:24 ?        00:00:00 [cpuhp/30]
+root         194       2  0 09:24 ?        00:00:00 [idle_inject/30]
+root         195       2  0 09:24 ?        00:00:00 [migration/30]
+root         196       2  0 09:24 ?        00:00:00 [ksoftirqd/30]
+root         198       2  0 09:24 ?        00:00:00 [kworker/30:0H-events_highpri]
+root         199       2  0 09:24 ?        00:00:00 [cpuhp/31]
+root         200       2  0 09:24 ?        00:00:00 [idle_inject/31]
+root         201       2  0 09:24 ?        00:00:00 [migration/31]
+root         202       2  0 09:24 ?        00:00:00 [ksoftirqd/31]
+root         204       2  0 09:24 ?        00:00:00 [kworker/31:0H-events_highpri]
+root         205       2  0 09:24 ?        00:00:00 [kdevtmpfs]
+root         206       2  0 09:24 ?        00:00:00 [inet_frag_wq]
+root         207       2  0 09:24 ?        00:00:00 [kauditd]
+root         211       2  0 09:24 ?        00:00:00 [khungtaskd]
+root         212       2  0 09:24 ?        00:00:00 [oom_reaper]
+root         213       2  0 09:24 ?        00:00:00 [writeback]
+root         214       2  0 09:24 ?        00:00:00 [kcompactd0]
+root         215       2  0 09:24 ?        00:00:00 [ksmd]
+root         216       2  0 09:24 ?        00:00:00 [khugepaged]
+root         228       2  0 09:24 ?        00:00:00 [kworker/8:1-events]
+root         265       2  0 09:24 ?        00:00:00 [kintegrityd]
+root         266       2  0 09:24 ?        00:00:00 [kblockd]
+root         267       2  0 09:24 ?        00:00:00 [blkcg_punt_bio]
+root         269       2  0 09:24 ?        00:00:00 [tpm_dev_wq]
+root         270       2  0 09:24 ?        00:00:00 [ata_sff]
+root         271       2  0 09:24 ?        00:00:00 [md]
+root         272       2  0 09:24 ?        00:00:00 [edac-poller]
+root         273       2  0 09:24 ?        00:00:00 [devfreq_wq]
+root         275       2  0 09:24 ?        00:00:00 [watchdogd]
+root         276       2  0 09:24 ?        00:00:00 [kworker/0:1H-kblockd]
+root         278       2  0 09:24 ?        00:00:00 [kswapd0]
+root         279       2  0 09:24 ?        00:00:00 [ecryptfs-kthrea]
+root         281       2  0 09:24 ?        00:00:00 [kthrotld]
+root         282       2  0 09:24 ?        00:00:00 [irq/123-aerdrv]
+root         283       2  0 09:24 ?        00:00:00 [irq/123-pciehp]
+root         284       2  0 09:24 ?        00:00:00 [irq/124-aerdrv]
+root         285       2  0 09:24 ?        00:00:00 [irq/125-aerdrv]
+root         286       2  0 09:24 ?        00:00:00 [irq/128-pciehp]
+root         287       2  0 09:24 ?        00:00:00 [irq/130-pciehp]
+root         288       2  0 09:24 ?        00:00:00 [acpi_thermal_pm]
+root         289       2  0 09:24 ?        00:00:00 [kworker/u64:2-ext4-rsv-conversion]
+root         291       2  0 09:24 ?        00:00:00 [kworker/13:1-events]
+root         292       2  0 09:24 ?        00:00:00 [kworker/5:1-events]
+root         293       2  0 09:24 ?        00:00:00 [vfio-irqfd-clea]
+root         294       2  0 09:24 ?        00:00:00 [mld]
+root         295       2  0 09:24 ?        00:00:00 [ipv6_addrconf]
+root         304       2  0 09:24 ?        00:00:00 [kstrp]
+root         305       2  0 09:24 ?        00:00:00 [kworker/2:1-cgroup_destroy]
+root         306       2  0 09:24 ?        00:00:00 [kworker/6:1-mm_percpu_wq]
+root         308       2  0 09:24 ?        00:00:00 [kworker/17:1-events]
+root         309       2  0 09:24 ?        00:00:00 [kworker/18:1-rcu_gp]
+root         310       2  0 09:24 ?        00:00:00 [kworker/20:1-rcu_par_gp]
+root         311       2  0 09:24 ?        00:00:00 [kworker/24:1-mm_percpu_wq]
+root         312       2  0 09:24 ?        00:00:00 [kworker/25:1-events]
+root         314       2  0 09:24 ?        00:00:00 [kworker/28:1-mm_percpu_wq]
+root         315       2  0 09:24 ?        00:00:00 [kworker/31:1-mm_percpu_wq]
+root         316       2  0 09:24 ?        00:00:00 [kworker/3:1-events]
+root         317       2  0 09:24 ?        00:00:00 [kworker/7:1-mm_percpu_wq]
+root         318       2  0 09:24 ?        00:00:00 [kworker/15:1-events]
+root         319       2  0 09:24 ?        00:00:00 [kworker/19:1-mm_percpu_wq]
+root         320       2  0 09:24 ?        00:00:00 [kworker/22:1-mm_percpu_wq]
+root         321       2  0 09:24 ?        00:00:00 [kworker/27:1-mm_percpu_wq]
+root         322       2  0 09:24 ?        00:00:00 [kworker/30:1-events]
+root         325       2  0 09:24 ?        00:00:00 [zswap-shrink]
+root         327       2  0 09:24 ?        00:00:00 [kworker/3:2]
+root         328       2  0 09:24 ?        00:00:00 [kworker/4:2-events]
+root         331       2  0 09:24 ?        00:00:00 [kworker/7:2-events]
+root         333       2  0 09:24 ?        00:00:00 [kworker/9:1-events]
+root         336       2  0 09:24 ?        00:00:00 [kworker/11:1-rcu_par_gp]
+root         339       2  0 09:24 ?        00:00:00 [kworker/13:2-mm_percpu_wq]
+root         340       2  0 09:24 ?        00:00:00 [kworker/14:2-mm_percpu_wq]
+root         341       2  0 09:24 ?        00:00:00 [kworker/15:2]
+root         342       2  0 09:24 ?        00:00:00 [kworker/16:1-events]
+root         344       2  0 09:24 ?        00:00:00 [kworker/17:2-rcu_par_gp]
+root         346       2  0 09:24 ?        00:00:00 [kworker/19:2]
+root         348       2  0 09:24 ?        00:00:00 [kworker/21:1-mm_percpu_wq]
+root         350       2  0 09:24 ?        00:00:00 [kworker/22:2-cgroup_destroy]
+root         351       2  0 09:24 ?        00:00:00 [kworker/23:1-mm_percpu_wq]
+root         352       2  0 09:24 ?        00:00:00 [kworker/23:2-rcu_gp]
+root         353       2  0 09:24 ?        00:00:00 [kworker/24:2-pm]
+root         354       2  0 09:24 ?        00:00:00 [kworker/25:2]
+root         356       2  0 09:24 ?        00:00:00 [kworker/27:2-rcu_par_gp]
+root         357       2  0 09:24 ?        00:00:00 [kworker/28:2]
+root         358       2  0 09:24 ?        00:00:00 [kworker/29:1-mm_percpu_wq]
+root         359       2  0 09:24 ?        00:00:00 [kworker/29:2]
+root         360       2  0 09:24 ?        00:00:00 [kworker/30:2]
+root         361       2  0 09:24 ?        00:00:00 [kworker/31:2-mm_percpu_wq]
+root         362       2  0 09:24 ?        00:00:00 [kworker/u65:0-rb_allocator]
+root         365       2  0 09:24 ?        00:00:00 [kworker/0:3-rcu_par_gp]
+root         370       2  0 09:24 ?        00:00:00 [charger_manager]
+root         392       2  0 09:24 ?        00:00:00 [kworker/10:1H-kblockd]
+root         440       2  0 09:24 ?        00:00:00 [kworker/6:1H-kblockd]
+root         454       2  0 09:24 ?        00:00:00 [nvme-wq]
+root         459       2  0 09:24 ?        00:00:00 [nvme-reset-wq]
+root         463       2  0 09:24 ?        00:00:00 [nvme-delete-wq]
+root         481       2  0 09:24 ?        00:00:00 [kworker/18:1H-kblockd]
+root         485       2  0 09:24 ?        00:00:00 [kworker/8:1H-kblockd]
+root         486       2  0 09:24 ?        00:00:00 [kworker/17:1H-kblockd]
+root         487       2  0 09:24 ?        00:00:00 [kworker/4:1H-kblockd]
+root         488       2  0 09:24 ?        00:00:00 [kworker/u64:4-ext4-rsv-conversion]
+root         516       2  0 09:24 ?        00:00:00 [jbd2/nvme0n1p8-]
+root         517       2  0 09:24 ?        00:00:00 [ext4-rsv-conver]
+root         521       2  0 09:24 ?        00:00:00 [kworker/1:1H-kblockd]
+root         523       2  0 09:24 ?        00:00:00 [kworker/12:1H-kblockd]
+root         555       2  0 09:24 ?        00:00:00 [kworker/20:1H-kblockd]
+root         556       2  0 09:24 ?        00:00:00 [kworker/14:1H-kblockd]
+root         561       2  0 09:24 ?        00:00:00 [kworker/2:1H-kblockd]
+root         562       1  0 09:24 ?        00:00:00 /lib/systemd/systemd-journald
+root         584       2  0 09:24 ?        00:00:00 [kworker/5:1H-kblockd]
+root         604       1  0 09:24 ?        00:00:00 /lib/systemd/systemd-udevd
+root         658       2  0 09:24 ?        00:00:00 [kworker/19:1H-kblockd]
+root         692       2  0 09:24 ?        00:00:00 [kworker/15:1H-kblockd]
+root         693       2  0 09:24 ?        00:00:00 [kworker/9:1H-kblockd]
+root         694       2  0 09:24 ?        00:00:00 [kworker/7:1H-kblockd]
+root         695       2  0 09:24 ?        00:00:00 [kworker/23:1H-kblockd]
+root         696       2  0 09:24 ?        00:00:00 [kworker/24:1H-kblockd]
+root         701       2  0 09:24 ?        00:00:00 [kworker/26:1H-kblockd]
+root         704       2  0 09:24 ?        00:00:00 [kworker/27:1H-kblockd]
+root         712       2  0 09:24 ?        00:00:00 [kworker/3:1H-kblockd]
+root         718       2  0 09:24 ?        00:00:00 [cryptd]
+root         723       2  0 09:24 ?        00:00:00 [cfg80211]
+root         725       2  0 09:24 ?        00:00:00 [irq/182-mei_me]
+root         726       2  0 09:24 ?        00:00:00 [kworker/25:1H-kblockd]
+root         735       2  0 09:24 ?        00:00:00 [kworker/28:1H-kblockd]
+root         771       2  0 09:24 ?        00:00:00 [kworker/29:1H-kblockd]
+root         793       2  0 09:24 ?        00:00:00 [kworker/22:1H-kblockd]
+root         794       2  0 09:24 ?        00:00:00 [kworker/11:1H-kblockd]
+root         795       2  0 09:24 ?        00:00:00 [irq/183-iwlwifi]
+root         796       2  0 09:24 ?        00:00:00 [irq/184-iwlwifi]
+root         798       2  0 09:24 ?        00:00:00 [irq/185-iwlwifi]
+root         799       2  0 09:24 ?        00:00:00 [irq/186-iwlwifi]
+root         800       2  0 09:24 ?        00:00:00 [irq/187-iwlwifi]
+root         801       2  0 09:24 ?        00:00:00 [irq/188-iwlwifi]
+root         802       2  0 09:24 ?        00:00:00 [irq/189-iwlwifi]
+root         803       2  0 09:24 ?        00:00:00 [irq/190-iwlwifi]
+root         804       2  0 09:24 ?        00:00:00 [irq/191-iwlwifi]
+root         805       2  0 09:24 ?        00:00:00 [irq/192-iwlwifi]
+root         806       2  0 09:24 ?        00:00:00 [irq/193-iwlwifi]
+root         807       2  0 09:24 ?        00:00:00 [irq/194-iwlwifi]
+root         808       2  0 09:24 ?        00:00:00 [irq/195-iwlwifi]
+root         810       2  0 09:24 ?        00:00:00 [irq/196-iwlwifi]
+root         811       2  0 09:24 ?        00:00:00 [irq/197-iwlwifi]
+root         812       2  0 09:24 ?        00:00:00 [irq/198-iwlwifi]
+root         813       2  0 09:24 ?        00:00:00 [kworker/30:1H-kblockd]
+root         817       2  0 09:24 ?        00:00:00 [kworker/21:1H-kblockd]
+root         911       2  0 09:24 ?        00:00:00 [kworker/31:1H-kblockd]
+root         924       2  0 09:24 ?        00:00:00 [jbd2/nvme0n1p9-]
+root         925       2  0 09:24 ?        00:00:00 [ext4-rsv-conver]
+root         927       2  0 09:24 ?        00:00:00 [kworker/16:1H-kblockd]
+systemd+     953       1  0 09:24 ?        00:00:00 /lib/systemd/systemd-resolved
+systemd+     954       1  0 09:24 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         982       1  0 09:24 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root         983       1  0 09:24 ?        00:00:00 /usr/sbin/acpid
+avahi        986       1  0 09:24 ?        00:00:00 avahi-daemon: running [hitcrt-OMEN-Gaming-Laptop-16-wf0032TX.local]
+root         987       1  0 09:24 ?        00:00:00 /usr/sbin/cron -f
+root         989       1  0 09:24 ?        00:00:00 /usr/sbin/cupsd -l
+message+     990       1  0 09:24 ?        00:00:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         993       1  0 09:24 ?        00:00:01 /usr/sbin/NetworkManager --no-daemon
+root         999       1  0 09:24 ?        00:00:00 /usr/sbin/irqbalance --foreground
+root        1001       1  0 09:24 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root        1005       1  0 09:24 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog      1009       1  0 09:24 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root        1013       1  0 09:24 ?        00:00:00 /usr/lib/snapd/snapd
+root        1015       1  0 09:24 ?        00:00:00 /usr/libexec/switcheroo-control
+root        1028       1  0 09:24 ?        00:00:00 /lib/systemd/systemd-logind
+root        1032       1  0 09:24 ?        00:00:00 /usr/lib/udisks2/udisksd
+root        1033       1  0 09:24 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi       1035     986  0 09:24 ?        00:00:00 avahi-daemon: chroot helper
+root        1074       1  0 09:24 ?        00:00:00 /usr/sbin/cups-browsed
+root        1078       1  0 09:24 ?        00:00:00 /usr/sbin/ModemManager
+root        1080       1  0 09:24 ?        00:00:00 /usr/libexec/boltd
+root        1110       2  0 09:24 ?        00:00:00 [kworker/u65:1-hci0]
+root        1160       2  0 09:24 ?        00:00:00 [USBC000:00-con0]
+root        1177       1  0 09:24 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1179       2  0 09:24 ?        00:00:00 [USBC000:00-con0]
+root        1196       1  0 09:24 ?        00:00:00 /usr/lib/bluetooth/bluetoothd
+root        1206       2  0 09:24 ?        00:00:00 [kworker/13:1H-kblockd]
+whoopsie    1302       1  0 09:24 ?        00:00:00 /usr/bin/whoopsie -f
+kernoops    1307       1  0 09:24 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops    1314       1  0 09:24 ?        00:00:00 /usr/sbin/kerneloops
+root        1321       1  0 09:24 ?        00:00:00 /usr/sbin/gdm3
+root        1326    1321  0 09:24 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+hitcrt      1331       1  0 09:24 ?        00:00:00 /lib/systemd/systemd --user
+hitcrt      1332    1331  0 09:24 ?        00:00:00 (sd-pam)
+hitcrt      1337    1331  0 09:24 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+hitcrt      1340       1  0 09:24 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+hitcrt      1344    1326  0 09:24 tty2     00:00:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+root        1346    1344  4 09:24 tty2     00:01:50 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+rtkit       1347       1  0 09:24 ?        00:00:00 /usr/libexec/rtkit-daemon
+hitcrt      1350    1331  0 09:24 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+hitcrt      1358    1344  0 09:24 tty2     00:00:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+root        1428       2  0 09:24 ?        00:00:00 [krfcommd]
+hitcrt      1430    1358  0 09:24 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+hitcrt      1447    1331  0 09:24 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+hitcrt      1452    1447  0 09:24 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+hitcrt      1525    1331  0 09:24 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+hitcrt      1532    1331  0 09:24 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+hitcrt      1546    1331 21 09:24 ?        00:08:37 /usr/bin/gnome-shell
+hitcrt      1595    1331  0 09:24 ?        00:00:00 /usr/libexec/gvfsd
+hitcrt      1600    1331  0 09:24 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+hitcrt      1615    1546  0 09:24 ?        00:00:06 ibus-daemon --panel disable --xim
+hitcrt      1619    1615  0 09:24 ?        00:00:00 /usr/libexec/ibus-dconf
+hitcrt      1620    1615  0 09:24 ?        00:00:03 /usr/libexec/ibus-extension-gtk3
+hitcrt      1622    1331  0 09:24 ?        00:00:01 /usr/libexec/ibus-x11 --kill-daemon
+hitcrt      1625    1331  0 09:24 ?        00:00:00 /usr/libexec/ibus-portal
+hitcrt      1638    1331  0 09:24 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+hitcrt      1642    1331  0 09:24 ?        00:00:00 /usr/libexec/xdg-permission-store
+hitcrt      1647    1331  0 09:24 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+hitcrt      1653    1331  0 09:24 ?        00:00:00 /usr/libexec/evolution-source-registry
+hitcrt      1661    1331  0 09:24 ?        00:00:00 /usr/libexec/goa-daemon
+root        1662       1  0 09:24 ?        00:00:00 /usr/lib/upower/upowerd
+hitcrt      1666    1331  0 09:24 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+hitcrt      1673    1331  0 09:24 ?        00:00:00 /usr/libexec/dconf-service
+hitcrt      1683    1331  0 09:24 ?        00:00:00 /usr/libexec/goa-identity-service
+hitcrt      1695    1331  0 09:24 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+hitcrt      1709    1331  0 09:24 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+hitcrt      1720    1331  0 09:24 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+hitcrt      1729    1331  0 09:24 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+hitcrt      1739    1331  0 09:24 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+hitcrt      1748    1331  0 09:24 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+hitcrt      1760    1331  0 09:24 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+hitcrt      1773    1595  0 09:24 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.27 /org/gtk/gvfs/exec_spaw/0
+hitcrt      1786    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+hitcrt      1787    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-color
+hitcrt      1788    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-datetime
+hitcrt      1789    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-housekeeping
+hitcrt      1791    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-keyboard
+hitcrt      1792    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-media-keys
+hitcrt      1794    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-power
+hitcrt      1796    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-print-notifications
+hitcrt      1798    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-rfkill
+hitcrt      1799    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+hitcrt      1801    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-sharing
+hitcrt      1804    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-smartcard
+hitcrt      1805    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-sound
+hitcrt      1807    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-usb-protection
+hitcrt      1809    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-wacom
+hitcrt      1814    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-wwan
+hitcrt      1817    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-xsettings
+hitcrt      1842    1532  0 09:24 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+hitcrt      1852    1532  0 09:24 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+hitcrt      1901    1331  0 09:24 ?        00:00:02 /snap/snap-store/638/usr/bin/snap-store --gapplication-service
+colord      1910       1  0 09:24 ?        00:00:00 /usr/libexec/colord
+hitcrt      1937    1331  0 09:24 ?        00:00:00 /usr/libexec/gsd-printer
+hitcrt      1938    1331  0 09:24 ?        00:00:00 /usr/libexec/xdg-document-portal
+hitcrt      1991    1615  0 09:24 ?        00:00:01 /usr/lib/ibus/ibus-engine-libpinyin --ibus
+hitcrt      1996    1331  0 09:24 ?        00:00:00 /usr/libexec/tracker-miner-fs
+hitcrt      2077    1331  0 09:24 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+hitcrt      2081    1331  0 09:24 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+root        2114       1  0 09:24 ?        00:00:00 /usr/libexec/fwupd/fwupd
+hitcrt      3355    1331  0 09:25 ?        00:00:00 /usr/libexec/gvfsd-metadata
+hitcrt      3358    1532  0 09:25 ?        00:00:00 update-notifier
+root        3506       2  0 09:30 ?        00:00:00 [kworker/10:0-mm_percpu_wq]
+root        3523       2  0 09:38 ?        00:00:00 [kworker/26:2-events]
+root        3524       2  0 09:39 ?        00:00:00 [kworker/1:1-events]
+root        3528       2  0 09:39 ?        00:00:00 [kworker/12:0-events]
+root        3529       2  0 09:39 ?        00:00:00 [kworker/4:1-mm_percpu_wq]
+hitcrt      3535    1615  0 09:39 ?        00:00:00 /usr/libexec/ibus-engine-simple
+root        3546       2  0 09:39 ?        00:00:00 [kworker/5:0-events]
+root        3583       2  0 09:39 ?        00:00:00 [kworker/2:0-events]
+hitcrt      3594    1331  0 09:40 ?        00:00:00 /usr/libexec/evinced
+hitcrt      3607    1331  0 09:40 ?        00:00:09 /usr/bin/nautilus --gapplication-service
+root        3622       2  0 09:40 ?        00:00:00 [kworker/14:1-events]
+hitcrt      3626    1331  0 09:40 ?        00:00:02 /usr/libexec/gnome-terminal-server
+hitcrt      3635    3626  0 09:40 pts/0    00:00:00 bash
+hitcrt      3692    1331  2 09:40 ?        00:00:38 /snap/code/165/usr/share/code/code --no-sandbox
+hitcrt      3694    3692  0 09:40 ?        00:00:00 /snap/code/165/usr/share/code/code --type=zygote --no-zygote-sandbox --no-sandbox
+hitcrt      3695    3692  0 09:40 ?        00:00:00 /snap/code/165/usr/share/code/code --type=zygote --no-sandbox
+hitcrt      3709    1331  0 09:40 ?        00:00:00 /snap/code/165/usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/hitcrt/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=a5aa4aae-3f24-4584-8227-46aabb8130d7&iid=a5aa4aae-3f24-4584-8227-46aabb8130d7&sid=a5aa4aae-3f24-4584-8227-46aabb8130d7 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.92.0 --annotation=lsb-release=Ubuntu 20.04.6 LTS --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=30.1.2 --initial-client-fd=46 --shared-client-connection
+hitcrt      3730    3692  0 09:40 ?        00:00:00 /snap/code/165/usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=zh-CN --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=3709 --enable-crash-reporter=0ac21c2f-f61a-4c0b-a067-75398b2a8ef1,no_channel --user-data-dir=/home/hitcrt/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4783965086802876213,1297797629240639270,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+hitcrt      3743    3695 10 09:40 ?        00:02:34 /snap/code/165/usr/share/code/code --type=renderer --crashpad-handler-pid=3709 --enable-crash-reporter=0ac21c2f-f61a-4c0b-a067-75398b2a8ef1,no_channel --user-data-dir=/home/hitcrt/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/snap/code/165/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --no-sandbox --lang=zh-CN --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1722648270872495 --launch-time-ticks=986707823 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4783965086802876213,1297797629240639270,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:996ff9ae-1dc8-4d65-8aec-1f05e2e4ecde
+hitcrt      3791    3692  4 09:40 ?        00:01:12 /snap/code/165/usr/share/code/code --type=gpu-process --disable-gpu-sandbox --no-sandbox --crashpad-handler-pid=3709 --enable-crash-reporter=0ac21c2f-f61a-4c0b-a067-75398b2a8ef1,no_channel --user-data-dir=/home/hitcrt/.config/Code --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --use-gl=angle --use-angle=swiftshader-webgl --shared-files --field-trial-handle=3,i,4783965086802876213,1297797629240639270,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+hitcrt      3826    3692  0 09:40 ?        00:00:06 /snap/code/165/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=zh-CN --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=3709 --enable-crash-reporter=0ac21c2f-f61a-4c0b-a067-75398b2a8ef1,no_channel --user-data-dir=/home/hitcrt/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4783965086802876213,1297797629240639270,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+hitcrt      3827    3692  0 09:40 ?        00:00:00 /snap/code/165/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=zh-CN --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=3709 --enable-crash-reporter=0ac21c2f-f61a-4c0b-a067-75398b2a8ef1,no_channel --user-data-dir=/home/hitcrt/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4783965086802876213,1297797629240639270,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+hitcrt      3851    3692  1 09:40 ?        00:00:27 /snap/code/165/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=zh-CN --service-sandbox-type=none --no-sandbox --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=3709 --enable-crash-reporter=0ac21c2f-f61a-4c0b-a067-75398b2a8ef1,no_channel --user-data-dir=/home/hitcrt/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4783965086802876213,1297797629240639270,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+hitcrt      3983    3851  0 09:41 ?        00:00:00 /snap/code/165/usr/share/code/code /snap/code/165/usr/share/code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=3851
+hitcrt      4001    3851  0 09:41 ?        00:00:01 /snap/code/165/usr/share/code/code /snap/code/165/usr/share/code/resources/app/extensions/markdown-language-features/dist/serverWorkerMain --node-ipc --clientProcessId=3851
+root        4051       2  0 09:41 ?        00:00:00 [kworker/20:0-mm_percpu_wq]
+root        4052       2  0 09:41 ?        00:00:00 [kworker/18:0-events]
+root        4053       2  0 09:41 ?        00:00:00 [kworker/0:0-events_freezable]
+hitcrt      4059    1595  0 09:41 ?        00:00:00 /usr/libexec/gvfsd-network --spawner :1.27 /org/gtk/gvfs/exec_spaw/1
+hitcrt      4073    1595  0 09:41 ?        00:00:00 /usr/libexec/gvfsd-dnssd --spawner :1.27 /org/gtk/gvfs/exec_spaw/3
+root        4080       1  0 09:41 ?        00:00:00 /sbin/mount.ntfs /dev/nvme0n1p5 /media/hitcrt/study -o rw,nodev,nosuid,windows_names,uid=1000,gid=1000,uhelper=udisks2
+hitcrt      4197    3851  1 09:42 ?        00:00:15 /home/hitcrt/.vscode/extensions/ms-vscode.cpptools-1.21.5-linux-x64/bin/cpptools
+root        4501       2  0 09:51 ?        00:00:00 [kworker/12:1-mm_percpu_wq]
+root        4502       2  0 09:51 ?        00:00:00 [kworker/21:0]
+root        4503       2  0 09:52 ?        00:00:00 [kworker/9:0]
+root        4618       2  0 09:55 ?        00:00:00 [kworker/26:1]
+root        4619       2  0 09:55 ?        00:00:00 [kworker/8:2]
+hitcrt      4663    3692  0 09:55 ?        00:00:01 /snap/code/165/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=zh-CN --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=3709 --enable-crash-reporter=0ac21c2f-f61a-4c0b-a067-75398b2a8ef1,no_channel --user-data-dir=/home/hitcrt/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4783965086802876213,1297797629240639270,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+root        4706       2  0 09:56 ?        00:00:00 [kworker/16:0]
+root        4866       2  0 09:56 ?        00:00:00 [kworker/1:2-mm_percpu_wq]
+hitcrt      5083    1331  2 09:56 ?        00:00:11 /opt/microsoft/msedge/msedge
+hitcrt      5089    5083  0 09:56 ?        00:00:00 cat
+hitcrt      5090    5083  0 09:56 ?        00:00:00 cat
+hitcrt      5092    1331  0 09:56 ?        00:00:00 /opt/microsoft/msedge/msedge_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/hitcrt/.config/microsoft-edge/Crash Reports --annotation=IsOfficialBuild=1 --annotation=exe=msedge --annotation=lsb-release=Ubuntu 20.04.6 LTS --annotation=plat=Linux --annotation=prod=Microsoft_Edge_Linux --annotation=ver=127.0.2651.74 --initial-client-fd=5 --shared-client-connection
+hitcrt      5094    1331  0 09:56 ?        00:00:00 /opt/microsoft/msedge/msedge_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/hitcrt/.config/microsoft-edge/Crash Reports --annotation=IsOfficialBuild=1 --annotation=exe=msedge --annotation=lsb-release=Ubuntu 20.04.6 LTS --annotation=plat=Linux --annotation=prod=Microsoft_Edge_Linux --annotation=ver=127.0.2651.74 --initial-client-fd=4 --shared-client-connection
+hitcrt      5100    5083  0 09:56 ?        00:00:00 /opt/microsoft/msedge/msedge --type=zygote --no-zygote-sandbox --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+hitcrt      5101    5083  0 09:56 ?        00:00:00 /opt/microsoft/msedge/msedge --type=zygote --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+hitcrt      5103    5101  0 09:56 ?        00:00:00 /opt/microsoft/msedge/msedge --type=zygote --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+hitcrt      5131    5083  0 09:56 ?        00:00:03 /opt/microsoft/msedge/msedge --type=utility --utility-sub-type=network.mojom.NetworkService --lang=zh-CN --service-sandbox-type=none --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8212365635220875254,7498199481999040466,262144 --variations-seed-version
+hitcrt      5180    5103  0 09:56 ?        00:00:00 /opt/microsoft/msedge/msedge --type=utility --utility-sub-type=storage.mojom.StorageService --lang=zh-CN --service-sandbox-type=utility --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8212365635220875254,7498199481999040466,262144 --variations-seed-version
+hitcrt      5200    5103  0 09:56 ?        00:00:01 /opt/microsoft/msedge/msedge --type=renderer --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=zh-CN --js-flags=--ms-user-locale= --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1722648270872496 --launch-time-ticks=1948256645 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8212365635220875254,7498199481999040466,262144 --variations-seed-version
+hitcrt      5201    5103  1 09:56 ?        00:00:09 /opt/microsoft/msedge/msedge --type=renderer --crashpad-handler-pid=5092 --enable-crash-reporter=, --instant-process --change-stack-guard-on-fork=enable --lang=zh-CN --js-flags=--ms-user-locale= --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1722648270872496 --launch-time-ticks=1948258013 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8212365635220875254,7498199481999040466,262144 --variations-seed-version
+hitcrt      5270    5100  4 09:56 ?        00:00:22 /opt/microsoft/msedge/msedge --type=gpu-process --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --use-gl=angle --use-angle=swiftshader-webgl --shared-files --field-trial-handle=3,i,8212365635220875254,7498199481999040466,262144 --variations-seed-version
+root        5348       2  0 09:57 ?        00:00:00 [kworker/u64:1-events_unbound]
+hitcrt      5561    3626  0 09:57 pts/1    00:00:00 bash
+root        5754       2  0 09:57 ?        00:00:00 [kworker/10:1-events]
+hitcrt      5798    5103  0 09:58 ?        00:00:01 /opt/microsoft/msedge/msedge --type=renderer --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --disable-gpu-compositing --lang=zh-CN --js-flags=--ms-user-locale= --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=28 --time-ticks-at-unix-epoch=-1722648270872496 --launch-time-ticks=2014442217 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8212365635220875254,7498199481999040466,262144 --variations-seed-version
+hitcrt      5850    1331  0 09:58 ?        00:00:03 evince /media/hitcrt/study/文件/视觉/week01/第一周任务说明.pdf
+root        5866       2  0 09:58 ?        00:00:00 [kworker/6:2]
+hitcrt      5887    3695  0 09:58 ?        00:00:01 /snap/code/165/usr/share/code/code --type=renderer --crashpad-handler-pid=3709 --enable-crash-reporter=0ac21c2f-f61a-4c0b-a067-75398b2a8ef1,no_channel --user-data-dir=/home/hitcrt/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/snap/code/165/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --no-sandbox --disable-gpu-compositing --lang=zh-CN --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=17 --time-ticks-at-unix-epoch=-1722648270872495 --launch-time-ticks=2069138332 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4783965086802876213,1297797629240639270,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+hitcrt      5943    5103 29 09:59 ?        00:01:47 /opt/microsoft/msedge/msedge --type=renderer --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --disable-gpu-compositing --lang=zh-CN --js-flags=--ms-user-locale= --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=35 --time-ticks-at-unix-epoch=-1722648270872496 --launch-time-ticks=2084648407 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8212365635220875254,7498199481999040466,262144 --variations-seed-version
+hitcrt      5953    5103  0 09:59 ?        00:00:00 /opt/microsoft/msedge/msedge --type=renderer --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --disable-gpu-compositing --lang=zh-CN --js-flags=--ms-user-locale= --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=36 --time-ticks-at-unix-epoch=-1722648270872496 --launch-time-ticks=2085741088 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8212365635220875254,7498199481999040466,262144 --variations-seed-version
+hitcrt      5972    5083  0 09:59 ?        00:00:00 /opt/microsoft/msedge/msedge --type=utility --utility-sub-type=audio.mojom.AudioService --lang=zh-CN --service-sandbox-type=none --crashpad-handler-pid=5092 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8212365635220875254,7498199481999040466,262144 --variations-seed-version
+hitcrt      6045    3626  0 10:01 pts/2    00:00:00 bash
+root        6052       2  0 10:01 ?        00:00:00 [kworker/26:0-events]
+root        6055       2  0 10:01 ?        00:00:00 [kworker/21:2]
+root        6088       2  0 10:02 ?        00:00:00 [kworker/3:0]
+hitcrt      6176    6045  0 10:05 pts/2    00:00:00 bash process.sh
+hitcrt      6177    6176  0 10:05 pts/2    00:00:00 ps -ef
