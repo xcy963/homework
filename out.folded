@@ -1,0 +1,15 @@
+picnorm;[libgomp.so.1.0.0] 319413424
+picnorm;[unknown];[libgomp.so.1.0.0];main._omp_fn.0;imageSmoothing 45332979143
+picnorm;[unknown];[libgomp.so.1.0.0];main._omp_fn.0;imageSmoothing;[[kernel.kallsyms]] 63686441
+picnorm;[unknown];[libgomp.so.1.0.0];main._omp_fn.0;imageSmoothing;[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]] 55329920
+picnorm;[unknown];[libgomp.so.1.0.0];main._omp_fn.0;imageSmoothing;[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]] 691386
+picnorm;[unknown];[unknown];[unknown];GOMP_parallel;main._omp_fn.0;imageSmoothing 4497440732
+picnorm;[unknown];[unknown];[unknown];GOMP_parallel;main._omp_fn.0;imageSmoothing;[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]] 428895
+picnorm;[unknown];__clone;[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]] 580052
+picnorm;__libc_start_main;main;imageSmoothing 109490921459
+picnorm;__libc_start_main;main;imageSmoothing;[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]] 38284417
+picnorm;__libc_start_main;main;imageSmoothing;[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]] 38245065
+picnorm;__libc_start_main;main;imageSmoothing;[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]] 37694919
+picnorm;__libc_start_main;main;imageSmoothing;[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]];[[kernel.kallsyms]] 123565
+picnorm;_dl_fixup 2728914
+picnorm;start_thread;[[kernel.kallsyms]];[[kernel.kallsyms]] 1133591
