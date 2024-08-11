@@ -7,3 +7,12 @@
 2. 利用perf性能分析器画出该程序运行时的火焰图
 
 ![perf截图](assets/perf.svg)
+
+3. 分别利用GCC -O1，-O2，-O3优化器优化该程序，并提交运行截图。
+
+![perf](assets/2.png)
+![perf](assets/3.png)
+
+4. 补全该程序中的空函数，打印这三种优化方法所需的运行时间，并进行比较。
+
+![perf](assets/4.png)
