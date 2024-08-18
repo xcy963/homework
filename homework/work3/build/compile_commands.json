@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hitcrt/xcy_2023110264/homework/work3/build",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -I/home/hitcrt/xcy_2023110264/homework/work3/src -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -o CMakeFiles/1.dir/main.cpp.o -c /home/hitcrt/xcy_2023110264/homework/work3/main.cpp",
+  "file": "/home/hitcrt/xcy_2023110264/homework/work3/main.cpp"
+},
+{
+  "directory": "/home/hitcrt/xcy_2023110264/homework/work3/build/src",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -o CMakeFiles/example.dir/example.cpp.o -c /home/hitcrt/xcy_2023110264/homework/work3/src/example.cpp",
+  "file": "/home/hitcrt/xcy_2023110264/homework/work3/src/example.cpp"
+}
+]
