@@ -1,0 +1,13 @@
+原始图像像素值 (BGR格式):
+Point (90, 25): B: 5 G: 104 R: 242
+Point (152, 96): B: 2 G: 69 R: 118
+Point (561, 36): B: 1 G: 177 R: 242
+Point (326, 514): B: 90 G: 142 R: 183
+Point (422, 46): B: 6 G: 7 R: 17
+
+灰度图像像素值 (int格式):
+Point (90, 25): Value: 134
+Point (152, 96): Value: 76
+Point (561, 36): Value: 176
+Point (326, 514): Value: 148
+Point (422, 46): Value: 10

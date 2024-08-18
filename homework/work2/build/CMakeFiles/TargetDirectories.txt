@@ -1,0 +1,6 @@
+/home/hitcrt/xcy_2023110264/homework/work2/build/CMakeFiles/1.dir
+/home/hitcrt/xcy_2023110264/homework/work2/build/CMakeFiles/edit_cache.dir
+/home/hitcrt/xcy_2023110264/homework/work2/build/CMakeFiles/rebuild_cache.dir
+/home/hitcrt/xcy_2023110264/homework/work2/build/src/CMakeFiles/example.dir
+/home/hitcrt/xcy_2023110264/homework/work2/build/src/CMakeFiles/edit_cache.dir
+/home/hitcrt/xcy_2023110264/homework/work2/build/src/CMakeFiles/rebuild_cache.dir
