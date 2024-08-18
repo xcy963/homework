@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hitcrt/xcy_2023110264/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/trail.dir/trail.cpp.o -c /home/hitcrt/xcy_2023110264/trail.cpp",
+  "file": "/home/hitcrt/xcy_2023110264/trail.cpp"
+}
+]
