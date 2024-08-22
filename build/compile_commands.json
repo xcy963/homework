@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hitcrt/xcy_2023110264/build",
+  "command": "/usr/bin/c++  -I/usr/include/eigen3 -g -o CMakeFiles/one.dir/one.cpp.o -c /home/hitcrt/xcy_2023110264/one.cpp",
+  "file": "/home/hitcrt/xcy_2023110264/one.cpp"
+}
+]
